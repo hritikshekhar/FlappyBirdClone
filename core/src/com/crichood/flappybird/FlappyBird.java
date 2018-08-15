@@ -208,7 +208,7 @@ public class FlappyBird extends ApplicationAdapter {
 
 
         }
-	    //shapeRenderer.end();
+
 
 	}
 	
